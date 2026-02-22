@@ -9,8 +9,8 @@
 اثری که با همراهی هوش مصنوعی و به‌صورت گام‌به‌گام شکل گرفته و روند خلق و تکامل آن به‌صورت شفاف در این مخزن منتشر شده است.
 
 ### انتشار و دسترسی
-- GitHub Releases: [https://github.com/amastaneh/music-my-home/release](github.com/amastaneh/music-my-home)
-- SoundCloud: https://soundcloud.com/amastaneh  
+- GitHub Releases: [github.com/amastaneh/music-my-home](https://github.com/amastaneh/music-my-home/release)
+- SoundCloud: [soundcloud.com/amastaneh](https://soundcloud.com/amastaneh)
 
 ### مجوز و مشارکت
 این پروژه یک اثر هنری متن‌باز است. مشارکت، بازخورد و همکاری محترمانه آزاد و ارج‌نهاده می‌شود.
@@ -24,10 +24,6 @@ It is dedicated to the children of Iran, the selfless defenders of the homeland,
 
 This song is a human, emotional, and patriotic expression of grief and sorrow arising from the loss of more than 32,000 Iranian women and men, young and old.  
 It was developed step by step with the assistance of artificial intelligence, and its creative process is transparently documented in this repository.
-
-### Releases & Listening
-- GitHub Releases: https://github.com/amastaneh/music-my-home
-- SoundCloud: https://soundcloud.com/amastaneh  
 
 ### License & Contribution
 This is an open-source artistic project. Respectful contributions and feedback are welcome.
