@@ -3,15 +3,14 @@
 
 ## فارسی
 
-«خانه‌ام» اثری موسیقایی است که برای میهنم و به یاد خانه‌ام سروده‌ام و آن را به فرزندان ایران، جان‌فدایان میهن و جاویدنامان انقلاب شیر و خورشید ایران ۲۵۳۵ تقدیم می‌کنم.
-
-این ترانه بیانی انسانی، احساسی و میهنی از اندوه و رنجِ برخاسته از پرپرشدن بیش از ۳۲٬۰۰۰ زن و مرد، پیر و جوان ایرانی است.  
+«خانه‌ام» اثری موسیقایی است که برای میهنم و به یاد خانه‌ام سروده‌ام و آن را به فرزندان ایران، جان‌فدایان میهن و جاویدنامان انقلاب شیر و خورشید ایران ۲۵۳۵ تقدیم می‌کنم. 
+این ترانه بیانی انسانی، احساسی و میهنی از اندوه و رنجِ برخاسته از پرپرشدن بیش از ۳۲٬۰۰۰ زن و مرد، پیر و جوان ایرانی است.
 اثری که با همراهی هوش مصنوعی و به‌صورت گام‌به‌گام شکل گرفته و روند خلق و تکامل آن به‌صورت شفاف در این مخزن منتشر شده است.
 
 ### انتشار و دسترسی
 - GitHub Releases: [github.com/amastaneh/music-my-home](https://github.com/amastaneh/music-my-home/release)
 - SoundCloud: [soundcloud.com/amastaneh](https://soundcloud.com/amastaneh)
-
+- Bandcamp: [amastaneh.bandcamp.com/album/javid-nam](https://amastaneh.bandcamp.com/album/javid-nam)
 ### مجوز و مشارکت
 این پروژه یک اثر هنری متن‌باز است. مشارکت، بازخورد و همکاری محترمانه آزاد و ارج‌نهاده می‌شود.
 
@@ -19,11 +18,7 @@
 
 ## English
 
-**My Home** is a musical work written for my homeland — for my home.  
-It is dedicated to the children of Iran, the selfless defenders of the homeland, and the eternal names of the Lion and Sun Revolution of Iran 2535.
-
-This song is a human, emotional, and patriotic expression of grief and sorrow arising from the loss of more than 32,000 Iranian women and men, young and old.  
-It was developed step by step with the assistance of artificial intelligence, and its creative process is transparently documented in this repository.
+**My Home** is a musical work written for my homeland — for my home.  It is dedicated to the children of Iran, the selfless defenders of the homeland, and the eternal names of the Lion and Sun Revolution of Iran 2535. This song is a human, emotional, and patriotic expression of grief and sorrow arising from the loss of more than 32,000 Iranian women and men, young and old.  It was developed step by step with the assistance of artificial intelligence, and its creative process is transparently documented in this repository.
 
 ### License & Contribution
 This is an open-source artistic project. Respectful contributions and feedback are welcome.
