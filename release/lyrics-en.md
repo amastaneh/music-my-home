@@ -2,17 +2,17 @@
 
 ## [Spoken Intro]
 
-Rise — break free from night’s hard chain,  
-Shatter the spell of shadow’s reign.
+Rise from the grip of night,  
+Break the spell of deep darkness.
 
-This is the end of all this black,  
-The homeland’s dawn is breaking back.
+This is the end of the long night,  
+The dawn of the homeland begins.
 
-Ignite the Simorgh’s wings on fire,  
-Tear sorrow out from root and mire.
+Burn a feather of the Simorgh,  
+Uproot suffering from its very core.
 
-The white light waits beyond this ridge,  
-Dawn, in the homeland’s blood, is writ.
+Pure light rises behind the mountain,  
+In the blood-red dawn of the homeland.
 
 ---
 
@@ -23,9 +23,9 @@ My house… O weary soil — my homeland…
 
 My nest… my soul… my roots… my mother…
 
-I am Iran,  
-My mother — I am Iran,  
-I am Iran.
+My Iran,  
+My Mother — My Iran,  
+My Iran.
 
 ---
 
