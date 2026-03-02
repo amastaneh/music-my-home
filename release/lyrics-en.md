@@ -1,4 +1,4 @@
-# Homeland’s Dawn (صبح میهن)
+# Homeland’s Dawn (Morning of the Homeland - صبح میهن)
 
 ## [Spoken Intro]
 
@@ -47,7 +47,7 @@ The dead — out in the streets!
 ## [Rap]
 
 Enough, all this death is too much.  
-The homeland is exhausted by war.
+This soil is worn out by war.
 Nights dancing with lead bullets,
 By dawn, the anthem of deception.
 
