@@ -11,8 +11,6 @@
 - GitHub Releases: [github.com/amastaneh/javid-nam-homelands-dawn](https://github.com/amastaneh/javid-nam-homelands-dawn/release)
 - SoundCloud: [soundcloud.com/amastaneh](https://soundcloud.com/amastaneh)
 - Bandcamp: [amastaneh.bandcamp.com/album/javid-nam](https://amastaneh.bandcamp.com/album/javid-nam)
-### مجوز و مشارکت
-این پروژه یک اثر هنری متن‌باز است. مشارکت، بازخورد و همکاری محترمانه آزاد و ارج‌نهاده می‌شود.
 
 ---
 
@@ -22,9 +20,6 @@
 It is dedicated to the children of Iran, to those who gave their lives for the homeland, and to the Javid-nam — the enduring names of the Lion and Sun Revolution of Iran 2535. 
 This song is a human, emotional, and patriotic expression of grief and sorrow arising from the loss of more than 32,000 Iranian women and men, young and old.
 The work was developed step by step with the assistance of AI, and the process of its creation and evolution is documented transparently in this repository.
-
-### License & Contribution
-This is an open-source artistic project. Respectful contributions and feedback are welcome.
 
 ---
 
