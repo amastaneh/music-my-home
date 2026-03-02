@@ -1,10 +1,9 @@
 **Lyrics**
 
-[Opening Lament - Opening Cry]
+[Opening Lament Opening Cry – Dual Voice, Lead Female]
 ...
 
-[Declamation]
-
+[Declamation - Male Voice]
 برخیز از بندِ شب – بشکن طلسمِ ظلمت
 (Barkhiz az bande shab – beshkan telesm zolmat)
 
@@ -18,7 +17,7 @@
 (Sepide, poshte in kuh – dar khune sobhe mihan)
 
 
-[ترانه]
+[Chorus – Female Voice]
 
 سرزمینم… وطنم…
 (Sarzaminam… vatanam…)
@@ -39,7 +38,7 @@
 (Irānam…)
 
 
-[Rap]
+[Rap Verse – Male Voice]
 
 آشیانم… جانم… ریشه‌ام… مادرم…
 (Āshiyān-am… jān-am… rishe-am… mādar-am…)
@@ -68,7 +67,8 @@
 کشته‌هامون، تو خیابون!
 (Koshte-hāmun, tu khiābun!)
 
-[Rap]
+
+[Rap Break – Male Voice]
 
 بسّه این همه مرگ
 (Basse in hame marg)
@@ -86,7 +86,7 @@
 (Irānam…)
 
 
-[تکرار ترانه]
+[Chorus Reprise – Female Voice]
 
 آشیانم… جانم… ریشه‌ام… مادرم…
 (Āshiyān-am… jān-am… rishe-am… mādar-am…)
@@ -95,7 +95,7 @@
 (Irānam…)
 
 
-[Last Declamation]
+[Final Declamation – Male Voice]
 
 برخیز از بندِ شب – بشکن طلسمِ ظلمت
 (Barkhiz az bande shab – beshkan telesm zolmat)
@@ -110,25 +110,18 @@
 (Sepide, poshte in kuh – dar khune sobhe mihan)
 
 
-Note: All parenthesized lines are phonetic transliterations for reference only and should not be performed.
-
-
 **Style**
 
-Persian Voices
+Language: Persian (All parenthesized lines are phonetic transliterations for reference only and should not be performed.)
 
-Atmosphere:
-
-Dark, mournful, and tense — gradually opening toward dignity, resistance, and resolve
-
-
-Vocal Arrangement:
-
-Opening Lament Section: Dual vocals (male + female) layered together. Female voice carries the cry; male voice supports with low, restrained harmony. Emotional, raw, and mournful.
-
-Climactic Chorus (“ایرانم… / مادرم ایرانم…”): Dual vocals (male + female). Long, sustained, stretched delivery. Anthemic, powerful, and emotionally expansive — the emotional peak of the piece.
+Atmosphere: Dark, mournful, and tense, gradually opening toward dignity, resistance, and resolve.
 
 Genre: Epic-Tragic, Cinematic Orchestral, Dark Pop-Rap crossover.
 
-Vibe: Deeply emotional and mournful. High dynamic contrast: Starts with slow, soft weeping vocals -> transitions into a fast, rhythmic, staccato, intense vocal delivery -> culminates in explosive, heart-wrenching screams (cracked voice).
+Vibe: Deeply emotional with strong dynamic contrast, fragile lament → fast, rhythmic, staccato intensity → explosive, cracked-voice climax.
 
+Vocal Arrangement:
+
+- Opening Lament: Dual vocals (female lead + male support). Female voice carries the emotional cry; male voice provides low, restrained harmony. Raw and mournful.
+
+- Chorus (“ایرانم… / مادرم ایرانم…”): Dual vocals (male + female). Long, sustained delivery. Anthemic, powerful, and emotionally expansive—the emotional peak of the piece.
